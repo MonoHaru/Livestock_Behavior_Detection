@@ -1,0 +1,2 @@
+exp24/best.pt 전이학습
+image size 1088

@@ -1,0 +1,4 @@
+yolov5s.pt
+pretrained scratch
+image size 640
+with 전처리 안된 데이터

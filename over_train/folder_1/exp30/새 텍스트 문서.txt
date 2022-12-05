@@ -1,0 +1,1 @@
+exp25/weights/best.pt 전이학습
